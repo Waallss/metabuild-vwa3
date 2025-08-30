@@ -1,0 +1,48 @@
+{
+  "1": [
+    {
+      "id": "m1",
+      "name": "Aleph T\u2011Shirt",
+      "description": "Limited edition Aleph tee for early VWA supporters",
+      "image": "/placeholder.jpg",
+      "price": "50",
+      "tokenAddress": "0x00000000000000000000000000000000000A1EPh",
+      "metaverseId": "1",
+      "category": "tshirt"
+    },
+    {
+      "id": "m2",
+      "name": "Innovation Sneakers",
+      "description": "Virtual sneakers with Aleph colorway",
+      "image": "/placeholder.jpg",
+      "price": "150",
+      "tokenAddress": "0x00000000000000000000000000000000000A1EPh",
+      "metaverseId": "1",
+      "category": "sneakers"
+    }
+  ],
+  "2": [
+    {
+      "id": "m3",
+      "name": "Studio Hoodie",
+      "description": "Premium hoodie NFT for Aleph Studio launches",
+      "image": "/placeholder.jpg",
+      "price": "100",
+      "tokenAddress": "0x00000000000000000000000000000000000A1EPh",
+      "metaverseId": "2",
+      "category": "hoodie"
+    }
+  ],
+  "3": [
+    {
+      "id": "m4",
+      "name": "Wellness Cap",
+      "description": "Cap inspired by curved architecture & ambient moods",
+      "image": "/placeholder.jpg",
+      "price": "35",
+      "tokenAddress": "0x00000000000000000000000000000000000A1EPh",
+      "metaverseId": "3",
+      "category": "hat"
+    }
+  ]
+}

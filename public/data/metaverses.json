@@ -1,0 +1,46 @@
+{
+  "metaverses": [
+    {
+      "id": "1",
+      "name": "Aleph Hub",
+      "description": "Operations center for startups and institutions: pitches, meetings, and collaborative events in a professional virtual architecture.",
+      "image": "/futuristic-innovation-hub-with-floating-platforms-.png",
+      "organizer": "Aleph \u2013 Ciudad de Crecimiento",
+      "creator": "0xA13f5eE1A2b6C9D3E1fF9955B0a1111111111111111",
+      "launchDate": "2025-08-29",
+      "tokenName": "Aleph by MetaBuild HUB",
+      "tokenSymbol": "ALEPHHUB",
+      "tokenAddress": "0x00000000000000000000000000000000000A1EPh",
+      "price": "0.000",
+      "tokenBuyUrl": "https://app.uniswap.org/swap?chain=base"
+    },
+    {
+      "id": "2",
+      "name": "Aleph Studio",
+      "description": "Virtual stage for private events, live-streams, and branded launches inside Aleph. Equipped with screens and avatar spaces.",
+      "image": "/digital-summit-with-purple-and-cyan-lighting-moder.png",
+      "organizer": "Aleph \u2013 Ciudad de Crecimiento",
+      "creator": "0xA13f5eE1A2b6C9D3E1fF9955B0a1111111111111112",
+      "launchDate": "2025-08-29",
+      "tokenName": "Aleph by MetaBuild HUB",
+      "tokenSymbol": "ALEPHHUB",
+      "tokenAddress": "0x00000000000000000000000000000000000A1EPh",
+      "price": "0.000",
+      "tokenBuyUrl": "https://app.uniswap.org/swap?chain=base"
+    },
+    {
+      "id": "3",
+      "name": "Aleph Wellness",
+      "description": "Immersive environment for group sessions: yoga, breathing, or wellness talks with curved architecture and ambient audio.",
+      "image": "/ai-blockchain-summit-with-neural-network-visualiza.png",
+      "organizer": "Aleph \u2013 Ciudad de Crecimiento",
+      "creator": "0xA13f5eE1A2b6C9D3E1fF9955B0a1111111111111113",
+      "launchDate": "2025-08-29",
+      "tokenName": "Aleph by MetaBuild HUB",
+      "tokenSymbol": "ALEPHHUB",
+      "tokenAddress": "0x00000000000000000000000000000000000A1EPh",
+      "price": "0.000",
+      "tokenBuyUrl": "https://app.uniswap.org/swap?chain=base"
+    }
+  ]
+}
